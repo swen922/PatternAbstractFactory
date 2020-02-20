@@ -2,6 +2,8 @@ import factory.IFVFactory;
 import factory.SPAIFactory;
 import factory.TankFactory;
 
+/**  Абстрактная фабрика, также известен как: Abstract Factory */
+
 public class Run {
 
     public static void main(String[] args) {
